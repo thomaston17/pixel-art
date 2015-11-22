@@ -1,3 +1,5 @@
+Description:
+
 gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.  
 
 An example of gitfiti in the wild:  
